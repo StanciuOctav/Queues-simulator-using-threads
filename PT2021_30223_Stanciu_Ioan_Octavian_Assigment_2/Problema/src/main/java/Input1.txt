@@ -1,0 +1,363 @@
+TIME: 0
+ ( 3 , 3 , 3 )  ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 1
+ ( 3 , 3 , 3 )  ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 2
+ ( 3 , 3 , 3 )  ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 3
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: (3 , 3 , 3)
+Queue 2: CLOSED
+
+
+TIME: 4
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: (3 , 3 , 2)
+Queue 2: CLOSED
+
+
+TIME: 5
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: (3 , 3 , 1)
+Queue 2: CLOSED
+
+
+TIME: 6
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 7
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 8
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 9
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 10
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 11
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 12
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 13
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 14
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 15
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 16
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 17
+ ( 2 , 18 , 2 )  ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 18
+ ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: (2 , 18 , 2)
+
+
+TIME: 19
+ ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: (2 , 18 , 1)
+
+
+TIME: 20
+ ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 21
+ ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 22
+ ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 23
+ ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 24
+ ( 1 , 25 , 2 )  ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 25
+ ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: (1 , 25 , 2)
+
+
+TIME: 26
+ ( 4 , 27 , 3 )
+Queue 1: CLOSED
+Queue 2: (1 , 25 , 1)
+
+
+TIME: 27
+Waiting clients:
+Queue 1: (4 , 27 , 3)
+Queue 2: CLOSED
+
+
+TIME: 28
+Waiting clients:
+Queue 1: (4 , 27 , 2)
+Queue 2: CLOSED
+
+
+TIME: 29
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 30
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 31
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 32
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 33
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 34
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 35
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 36
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 37
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 38
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 39
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 40
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 41
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 42
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 43
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 44
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 45
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 46
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 47
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 48
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 49
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 50
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 51
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 52
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 53
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 54
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 55
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 56
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 57
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 58
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+TIME: 59
+Waiting clients:
+Queue 1: CLOSED
+Queue 2: CLOSED
+
+
+Average Waiting Time: 1.6385416666666666
+Average Service time: 2.5
+Peak hour: 3
